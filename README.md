@@ -1,4 +1,3 @@
-learninggit
-===========
+# Learning Git
 
 for learning git
